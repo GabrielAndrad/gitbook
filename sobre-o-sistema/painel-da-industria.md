@@ -1,5 +1,4 @@
 ---
-icon: industry-windows
 ---
 
 # Painel da Indústria

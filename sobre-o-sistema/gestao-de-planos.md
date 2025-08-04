@@ -1,5 +1,4 @@
 ---
-icon: file-invoice-dollar
 ---
 
 # Gestão de Planos

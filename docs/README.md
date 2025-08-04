@@ -1,5 +1,4 @@
 ---
-icon: cart-shopping
 cover: .gitbook/assets/1 (4).png
 coverY: 0
 ---

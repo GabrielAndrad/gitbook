@@ -1,5 +1,4 @@
 ---
-icon: camera
 ---
 
 # Fotocheck

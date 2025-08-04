@@ -1,5 +1,4 @@
 ---
-icon: list-check
 cover: ../.gitbook/assets/6 (2).png
 coverY: 0
 ---

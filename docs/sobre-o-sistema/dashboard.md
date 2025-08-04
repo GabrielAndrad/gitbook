@@ -1,5 +1,4 @@
 ---
-icon: chart-line
 ---
 
 # Dashboard
