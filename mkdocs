@@ -1,0 +1,7 @@
+site_name: Extranet Meu Cliente
+theme:
+  name: material
+
+plugins:
+  - search
+  - awesome-pages
