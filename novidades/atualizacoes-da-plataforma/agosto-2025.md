@@ -24,3 +24,9 @@ Abaixo as novidades em nossa plataforma. Em caso de dúvida acione nosso [suport
 
 * **Flexibilidade no início das tarefas dentro do workflow de negociação**\
   Agora você pode configurar se a data das tarefas iniciam exatamente na data, dias antes ou dias depois. Garantindo flexibilidade no planejamento execução das tarefas!
+
+
+
+* **Acesso rápido as informações do produto foco**\
+  Novo atalho direto para a tela de Produto Foco. Menos cliques, mais eficiência!
+
