@@ -2,6 +2,8 @@ site_name: Extranet Meu Cliente
 theme:
   name: material
 
+docs_dir: .
+
 plugins:
   - search
   - awesome-pages
