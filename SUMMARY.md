@@ -27,3 +27,4 @@
 
 * [Atualizações da Plataforma](novidades/atualizacoes-da-plataforma/README.md)
   * [Julho/2025](novidades/atualizacoes-da-plataforma/julho-2025.md)
+  * [Agosto/2025](novidades/atualizacoes-da-plataforma/agosto-2025.md)

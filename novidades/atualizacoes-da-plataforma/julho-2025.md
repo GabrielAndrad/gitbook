@@ -1,7 +1,5 @@
 # Julho/2025
 
-## [Atualização de Julho / 25](https://drive.google.com/drive/u/1/folders/1Asubxb76kesm1w5-keInBTic4vYaiRJR)
-
 Abaixo as novidades em nossa plataforma. Em caso de dúvida acione nosso [suporte](https://wa.me/5511949197636?text=Ol%C3%A1,%20gostaria%20de%20mais%20informa%C3%A7%C3%B5es.)&#x20;
 
 ## Novas Funcionalidades
