@@ -30,3 +30,8 @@ Abaixo as novidades em nossa plataforma. Em caso de dúvida acione nosso [suport
 * **Acesso rápido as informações do produto foco**\
   Novo atalho direto para a tela de Produto Foco. Menos cliques, mais eficiência!
 
+
+
+* **Edição em lote dos inventários com planta de loja**\
+  Clientes com planta de loja agora podem editar o inventário em lote! Ganhe tempo ajustando vários espaços de uma só vez.
+
