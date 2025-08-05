@@ -6,7 +6,7 @@ Abaixo as novidades em nossa plataforma. Em caso de dúvida acione nosso [suport
 
 * **Pré validação das fotos pelo varejo**\
   Agora o varejo valida as fotos antes que elas cheguem à indústria. Mais controle, mais qualidade nas comprovações!\
-  \
+  [Video Demonstrativo](https://drive.google.com/file/d/1JLYJ5_9lDQsNrhSHUjFob0LsF6lXozU0/view?usp=drive_link)\
 
 
 ## Melhorias
