@@ -14,24 +14,34 @@ Abaixo as novidades em nossa plataforma. Em caso de dúvida acione nosso [suport
 * **Limpeza geral dos filtros**\
   Limpar filtros ficou mais fácil! Com um clique, você zera todos os filtros da tela de planos. Agilidade na busca!
 
+&#x20;      [Video Demonstrativo](https://drive.google.com/file/d/12nPboz0F-DVJfqGRnDhWHZpOJyqRyQ3W/view?usp=drive_link)
+
 
 
 * **Upload e Download de documentos**\
   Agora você também pode anexar documentos (doc, docx, xls, xlsx, pdf, ppt) nas telas de comprovação de ativos e nas execuções de tarefas.\
   Tudo organizado em um só lugar e Informação acessível quando e onde precisar!
 
+&#x20;      [Video Demonstrativo](https://drive.google.com/file/d/1krLg5LZVWm6Kf5-3v1tjhWm5yIbPZB4W/view?usp=drive_link)
+
 
 
 * **Flexibilidade no início das tarefas dentro do workflow de negociação**\
   Agora você pode configurar se a data das tarefas iniciam exatamente na data, dias antes ou dias depois. Garantindo flexibilidade no planejamento execução das tarefas!
+
+&#x20;       [Video Demonstrativo](https://drive.google.com/file/d/1GjUa3k2ToNnvfanSX2w3VAgCOOWVpI5K/view?usp=drive_link)
 
 
 
 * **Acesso rápido as informações do produto foco**\
   Novo atalho direto para a tela de Produto Foco. Menos cliques, mais eficiência!
 
+&#x20;       [Video Demonstrativo](https://drive.google.com/file/d/1iQAsOL6A1I7xzgD8tDaPqTo8IHo4gJDe/view?usp=drive_link)
+
 
 
 * **Edição em lote dos inventários com planta de loja**\
   Clientes com planta de loja agora podem editar o inventário em lote! Ganhe tempo ajustando vários espaços de uma só vez.
+
+&#x20;      [Video Demonstrativo](https://drive.google.com/file/d/1xhj05GURoFXwspPxTp7V3BcfnSFreMVP/view?usp=drive_link)
 
