@@ -43,5 +43,5 @@ Abaixo as novidades em nossa plataforma. Em caso de dúvida acione nosso [suport
 * **Edição em lote dos inventários com planta de loja**\
   Clientes com planta de loja agora podem editar o inventário em lote! Ganhe tempo ajustando vários espaços de uma só vez.
 
-&#x20;      [Video Demonstrativo](https://drive.google.com/file/d/1xhj05GURoFXwspPxTp7V3BcfnSFreMVP/view?usp=drive_link)
+&#x20;      Video Demonstrativo
 
