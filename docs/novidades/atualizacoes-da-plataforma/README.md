@@ -1,4 +1,6 @@
 ---
+hidden: true
+icon: file-invoice-dollar
 ---
 
 # Atualizações da Plataforma
@@ -7,7 +9,7 @@
 
 ####
 
-🚀  Bem-vindo(a) à nossa página de atualizações!
+🚀 Bem-vindo(a) à nossa página de atualizações!
 
 Este é o espaço onde você vai acompanhar, de forma simples e organizada, todas as **novas funcionalidades**, **melhorias** e **ajustes** que estamos implementando na plataforma.
 
