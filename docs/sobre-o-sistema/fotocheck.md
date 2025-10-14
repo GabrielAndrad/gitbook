@@ -1,4 +1,5 @@
 ---
+icon: camera
 ---
 
 # Fotocheck
@@ -17,7 +18,7 @@ Neste treinamento, vocês irão aprender como utilizar o Fotocheck para realizar
 
 Insira seu PIN e depois, clique em "Entrar" para acessar a tela principal.
 
-<figure><img src="../.gitbook/assets/1 (1).png" alt=""><figcaption><p>Insira seu PIN e depois, clique em "Entrar" para acessar a tela principal.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/1 (1) (1).png" alt=""><figcaption><p>Insira seu PIN e depois, clique em "Entrar" para acessar a tela principal.</p></figcaption></figure>
 
 ***
 
@@ -25,7 +26,7 @@ Insira seu PIN e depois, clique em "Entrar" para acessar a tela principal.
 
 Clique em Pendentes para visualizar todas as tarefas que precisam ser comprovadas no mês.
 
-<figure><img src="../.gitbook/assets/2 (1).png" alt=""><figcaption><p>Clique em Pendentes para visualizar todas as tarefas que precisam ser comprovadas no mês.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/2 (1) (1).png" alt=""><figcaption><p>Clique em Pendentes para visualizar todas as tarefas que precisam ser comprovadas no mês.</p></figcaption></figure>
 
 ***
 
@@ -33,7 +34,7 @@ Clique em Pendentes para visualizar todas as tarefas que precisam ser comprovada
 
 Para comprovar, basta clicar no ativo que deseja enviar a comprovação.
 
-<figure><img src="../.gitbook/assets/3 (1).png" alt=""><figcaption><p>Para comprovar, basta clicar no ativo que deseja enviar a comprovação.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/3 (1) (1).png" alt=""><figcaption><p>Para comprovar, basta clicar no ativo que deseja enviar a comprovação.</p></figcaption></figure>
 
 ***
 
@@ -41,7 +42,7 @@ Para comprovar, basta clicar no ativo que deseja enviar a comprovação.
 
 Ao clicar no ícone que você escolheu, a câmera do seu celular será aberta para você capturar a imagem ou vídeo.
 
-<figure><img src="../.gitbook/assets/4 (1).png" alt=""><figcaption><p>Ao clicar no ícone que você escolheu, a câmera do seu celular será aberta para você capturar a imagem ou vídeo.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/4 (1) (1).png" alt=""><figcaption><p>Ao clicar no ícone que você escolheu, a câmera do seu celular será aberta para você capturar a imagem ou vídeo.</p></figcaption></figure>
 
 ***
 
@@ -57,7 +58,7 @@ Depois de tirar a foto, clique em Usar Foto e, em seguida Enviar.
 
 Clique em Voltar para concluir a tarefa, que irá para a aba de finalizadas.
 
-<figure><img src="../.gitbook/assets/6.png" alt=""><figcaption><p>Clique em Voltar para concluir a tarefa, que irá para a aba de finalizadas.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/6 (1).png" alt=""><figcaption><p>Clique em Voltar para concluir a tarefa, que irá para a aba de finalizadas.</p></figcaption></figure>
 
 ***
 
@@ -70,4 +71,3 @@ Entrando na tela do ativo, clique nos três pontinhos no canto superior direito 
 ***
 
 ### Agora você já sabe como usar o _Fotocheck_ para realizar suas comprovações de forma simples e rápida. 📱
-

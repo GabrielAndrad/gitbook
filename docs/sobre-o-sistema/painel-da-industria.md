@@ -1,4 +1,5 @@
 ---
+icon: industry-windows
 ---
 
 # Painel da Indústria
@@ -18,7 +19,7 @@ Neste treinamento, vocês irão entender como funciona o Painel da Indústria, f
 Cada indústria recebe um PIN exclusivo assim que um novo plano é cadastrado no sistema.\
 ↓ Com esse código de acesso, a indústria pode entrar na plataforma e acompanhar as comprovações relacionadas ao plano no qual está vinculada.
 
-<figure><img src="../.gitbook/assets/1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/1 (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -28,7 +29,7 @@ No menu lateral, ao clicar em **"Contratos"**, será aberta uma tela com todos o
 
 ↓ Para visualizar as comprovações de um contrato específico, basta clicar sobre o **número do contrato** correspondente.
 
-<figure><img src="../.gitbook/assets/2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/2 (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -36,11 +37,11 @@ No menu lateral, ao clicar em **"Contratos"**, será aberta uma tela com todos o
 
 ↓ No canto esquerdo da tela, clique no ícone de imagem para acessar as comprovaçõe enviadas nesse contrato.
 
-<figure><img src="../.gitbook/assets/3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/3 (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
-### 4.  Nesta tela, são exibidas as comprovações dos ativos vinculados ao contrato selecionado.
+### 4. Nesta tela, são exibidas as comprovações dos ativos vinculados ao contrato selecionado.
 
 Na parte superior, há um conjunto de filtros que permitem refinar a visualização das informações. Como:
 
@@ -53,19 +54,18 @@ Na parte superior, há um conjunto de filtros que permitem refinar a visualizaç
 
 ↓ Logo abaixo dos filtros, são apresentados nestes quadrados, os ativos relacionados ao contrato e cada um aparece com a sua respectiva loja.
 
-<figure><img src="../.gitbook/assets/4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/4 (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
 ### 5. Quando uma comprovação é enviada, ela será exibida nesta tela.
 
-A partir desse ponto, a indústria tem a possibilidade de verificar se a execução está de acordo com o que foi acordado em contrato.&#x20;
+A partir desse ponto, a indústria tem a possibilidade de verificar se a execução está de acordo com o que foi acordado em contrato.
 
 ↓ Após verificar a imagem, é possível aprovar a execução, confirmando que está conforme o planejado, ou então recusar, caso a foto apresente alguma divergência.
 
-<figure><img src="../.gitbook/assets/5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/5 (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
 ## Agora você conhece o funcionamento do _Painel da Indústria_ e sabe como a indústria pode acompanhar e verificar todas as comprovações das parcerias de trade marketing. 🤝
-

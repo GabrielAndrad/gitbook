@@ -1,4 +1,5 @@
 ---
+icon: eye
 ---
 
 # Visão Execução
@@ -55,7 +56,7 @@ Ao entrar você estará na página principal, chamada Dashboard.
 
 Dividido em três indicadores principais:
 
-* **Comprovações**: exibe o percentual de comprovações realizadas em relação ao total previsto.&#x20;
+* **Comprovações**: exibe o percentual de comprovações realizadas em relação ao total previsto.
 * **Execuções**: mostra o andamento das execuções, caso haja o envio de algum motivo de não execução, esse percentual também irá refletir essa informação.
 * **Motivos**: representa os registros que foram justificados com algum motivo da não execução.
 
@@ -80,7 +81,7 @@ Dentro de cada card, são apresentadas as seguintes informações:
 
 ***
 
-### 6. Assim que uma comprovação é enviada corretamente, os gráficos do sistema são atualizados automaticamente&#x20;
+### 6. Assim que uma comprovação é enviada corretamente, os gráficos do sistema são atualizados automaticamente
 
 Além disso, no canto superior do quadrado, aparecem alguns ícones com funções específicas:
 
@@ -98,4 +99,3 @@ Já para ativos físicos em loja, o mais indicado é realizar o envio via aplica
 ***
 
 ### Agora você já sabe como usar o _Visão Execução_ para realizar suas comprovações digitais de forma simples e rápida. 💯
-

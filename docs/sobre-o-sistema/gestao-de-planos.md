@@ -1,9 +1,10 @@
 ---
+icon: file-invoice-dollar
 ---
 
 # Gestão de Planos
 
-## Sejam bem-vindos ao treinamento de Gestão de Planos 📄&#x20;
+## Sejam bem-vindos ao treinamento de Gestão de Planos 📄
 
 Neste treinamento, você irá aprender como utilizar a plataforma para lançar seus contratos de trade marketing.
 
@@ -31,7 +32,7 @@ Ao entrar você estará na página principal, chamada Dashboard.
 
 ***
 
-### 3.  Para lançar um novo plano, é necessário que a indústria esteja cadastrada no sistema.
+### 3. Para lançar um novo plano, é necessário que a indústria esteja cadastrada no sistema.
 
 ↓ Para isso, acesse a tela “Gerenciar Indústria”, clique no botão “+” e preencha todos os campos com as informações necessárias, depois clique em “Salvar”.
 
@@ -63,7 +64,7 @@ Ao entrar você estará na página principal, chamada Dashboard.
 
 ↓ Para lançar um novo plano, clique em “+” canto direito superior da tela.
 
-<figure><img src="../.gitbook/assets/6 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/6 (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -81,7 +82,7 @@ Ao entrar você estará na página principal, chamada Dashboard.
 
 ### 8. Ao gerar um novo plano, serão exibidas várias abas, cada uma com funcionabilidades especificas, para que você possa editar e configurar seu plano conforme necessário.
 
-↓ Na primeira aba, chamada “Dados do Plano”, você encontrará todas as informações essenciais do novo plano.&#x20;
+↓ Na primeira aba, chamada “Dados do Plano”, você encontrará todas as informações essenciais do novo plano.
 
 <figure><img src="../.gitbook/assets/8.png" alt=""><figcaption></figcaption></figure>
 
@@ -164,4 +165,3 @@ Ao entrar você estará na página principal, chamada Dashboard.
 ***
 
 ## Agora você já sabe como lançar seus próprios planos na platafora de forma completa e prática! ✅
-

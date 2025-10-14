@@ -1,4 +1,5 @@
 ---
+icon: chart-line
 ---
 
 # Dashboard
@@ -17,7 +18,7 @@ Neste treinamento, você aprenderá como visualizar e filtrar todas as informaç
 
 👉 [https://login.meucliente.app.br/dashboard](https://login.meucliente.app.br/dashboard)
 
-↓ A tela de _Dashboard_ é sempre a primeira que será exibida ao realizar o login na plataforma.&#x20;
+↓ A tela de _Dashboard_ é sempre a primeira que será exibida ao realizar o login na plataforma.
 
 <figure><img src="../.gitbook/assets/1 (7).png" alt=""><figcaption><p><sup>Os dados apresentados são fictícios e servem apenas como exemplo para fins de treinamento.</sup></p></figcaption></figure>
 
@@ -28,7 +29,7 @@ Neste treinamento, você aprenderá como visualizar e filtrar todas as informaç
 ↓ Abaixo desse filtro, são exibidos indicadores importantes como:
 
 * Lojas Ativas
-* Ativos Alocados&#x20;
+* Ativos Alocados
 * Contratos Vigentes
 * Status dos Players (Online/Offline)
 * Total de Receita
@@ -72,4 +73,3 @@ Dentre eles:
 ***
 
 ## Agora você já conhece todas as principais funcionalidade do _Dashboard_ e sabe como acompanhar, filtrar e analisar os dados de desempenho do seu varejo. 📈
-

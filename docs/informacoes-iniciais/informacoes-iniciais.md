@@ -1,4 +1,5 @@
 ---
+icon: memo-circle-info
 cover: ../.gitbook/assets/5 (4).png
 coverY: 0
 ---
@@ -35,21 +36,21 @@ Abaixo, você encontrará a lista completa de espaços que precisam ser fotograf
 
 Lista de fotos para mapeamento 📷
 
-\- Pontas de gôndola&#x20;
+\- Pontas de gôndola
 
-\- Pontos extras&#x20;
+\- Pontos extras
 
-\- Checkouts&#x20;
+\- Checkouts
 
-\- Fachada de loja&#x20;
+\- Fachada de loja
 
-\- Estacionamento&#x20;
+\- Estacionamento
 
-\- Corredores&#x20;
+\- Corredores
 
-\- Padaria&#x20;
+\- Padaria
 
-\- Açougue&#x20;
+\- Açougue
 
 \- Walk in Cooler
 
@@ -70,7 +71,7 @@ Lista de fotos para mapeamento 📷
 **Checkouts:**\
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeq2h15xku89SK8zaz748U0xczFBD21p7Vyvg_uqsiYDQ-UKfpBJbvWRzOYTvLUGE_yTxbt5OQIIr0lQBOEFBHWD91aRg3IJnq4LmSTNPzL9L1SmY2VgnFtOfgcwl6LED1-CH-m?key=-670ifXIVGjrN8F0wNmqKw)\
 (_Tire fotos em dois formatos: Uma foto individual de um único checkout;_\
-_Fotos mais amplas mostrando todos os checkouts disponíveis de forma nítida._)
+&#xNAN;_&#x46;otos mais amplas mostrando todos os checkouts disponíveis de forma nítida._)
 
 ***
 
@@ -100,13 +101,13 @@ _Fotos mais amplas mostrando todos os checkouts disponíveis de forma nítida._)
 
 **Walk in Cooler:**\
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdUg_viFRZseUcQn5x-qZ9DyRrVieCSKhoJG0io_TLAgqKZPpDKGCC19P76784prsVPMN3cYabfqHg_gWLSrIaxr8sWFMKsPOKe8cfUFJp3yicDQqKkzNG_YxgYdONftFslH_pw?key=-670ifXIVGjrN8F0wNmqKw)\
-(_Fotografe o walk-in cooler inteiro, seguindo o exemplo de foto de referência. A ideia é mostrar toda a estrutura com clareza._)&#x20;
+(_Fotografe o walk-in cooler inteiro, seguindo o exemplo de foto de referência. A ideia é mostrar toda a estrutura com clareza._)
 
 ***
 
 **Pontas Refrigeradas:**\
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfVd2u-qRj-GL_WdgTcWCsS8m26KGKSr9L48vzqkX0RYBHwiatOml8ZP_jYjVVcZWld-WnopbZtG7iomZliNAaACkspnBQKM4X--ZjZkNebeJLFihjmzsyEqXvR2BunLfYS7xEi?key=-670ifXIVGjrN8F0wNmqKw)\
-(_As fotos devem ser tiradas com um pouco de distância, mostrando a ponta refrigerada por completo e como ela se encaixa no espaço da loja._)&#x20;
+(_As fotos devem ser tiradas com um pouco de distância, mostrando a ponta refrigerada por completo e como ela se encaixa no espaço da loja._)
 
 ***
 
@@ -119,7 +120,7 @@ _Fotos mais amplas mostrando todos os checkouts disponíveis de forma nítida._)
 
 **Orelha de gôndola ou Displays de chão:**\
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfLAyuPOoqmAsyRqSaT5_0yvJItziac1uoB1DBE7NOP7S1cJLc-Uq_qZ_Osg8o37o4pB5n1Rr43cDWAhRuhHP21ymO4LKpIjiq_ySJ33X_pi4E_vrCvpFXtogc_ctmByt1iE_Fj8A?key=-670ifXIVGjrN8F0wNmqKw)\
-(_As fotos devem mostrar o posicionamento completo desses ativos. Mantenha uma distância que permita entender em que local da loja eles estão inseridos._)&#x20;
+(_As fotos devem mostrar o posicionamento completo desses ativos. Mantenha uma distância que permita entender em que local da loja eles estão inseridos._)
 
 ***
 
@@ -150,8 +151,6 @@ Conte com o nosso time.
 
 Caso você tenha as plantas baixas das lojas, é importante nos enviar. Com esse material conseguimos fazer um mapeamento técnico mais preciso dos espaços e pensar em uma distribuição mais estratégica dos ativos.
 
-
-
 #### Porque isso é importante?
 
 Com base nessas informações, conseguiremos mapear todos os ativos disponíveis na loja, definir a precificação por espaço e montar seu Tradebook Personalizado, que será o guia para todas as negociações futuras com a indústria.
@@ -160,7 +159,5 @@ Como no exemplo abaixo:
 
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcH094XJLhdd-zYmYSUbLTwGoHEq1Kcg9HNLi-etFpGG7Amx54FsxADnwRgbeMrbp5RZFPqKtKP-GE-gp6JbKkBEP39ApQKz3IBK_CfUbROQgzxKWfwM83OAIhDYdt7Dl7S0nZE?key=pyXSZTqxl8rJTAGXQ6kLmA)
 
-
-
-Caso tenha dúvida do envio das informações, estamos a disposição. \
-🠖 [**Clique Aqui!**](https://wa.me/5511951317720)\
+Caso tenha dúvida do envio das informações, estamos a disposição.\
+🠖 [**Clique Aqui!**](https://wa.me/5511951317720)\\

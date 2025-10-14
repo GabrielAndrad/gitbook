@@ -1,4 +1,5 @@
 ---
+icon: comments
 cover: .gitbook/assets/4 (5).png
 coverY: 0
 ---
@@ -19,13 +20,11 @@ Agora que temos clareza sobre os ativos disponíveis e seus valores, conseguimos
 
 ### Para iniciar as negociações, sugerimos dois caminhos principais:
 
-#### Campanhas e Festivais Sazonais Aproveitamos datas comemorativas e oportunidades do calendário para propor ações pontuais de alto impacto.  &#xNAN;_&#x4F;u_
+#### Campanhas e Festivais Sazonais Aproveitamos datas comemorativas e oportunidades do calendário para propor ações pontuais de alto impacto. \&#xNAN;_Ou_
 
 **JBP (Joint Business Plan)**\
 Uma construção conjunta de um plano estratégico de médio/longo prazo, alinhando objetivos do varejo e da indústria.
 
-
-
 🠖 Essa é a fase onde colocamos a estratégia em prática e começamos a colher resultados reais no ponto de venda.
 
-\
+\\

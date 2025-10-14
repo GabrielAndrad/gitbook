@@ -1,4 +1,5 @@
 ---
+icon: book-open
 cover: ../.gitbook/assets/2 (5).png
 coverY: 0
 ---
@@ -27,4 +28,4 @@ Nele, reunimos todo o mapeamento do varejo, com a quantidade de ativos, suas loc
 
 Assim que finalizarmos a montagem, vamos agendar um bate-papo para validação do Tradebook, garantindo que ele represente fielmente a operação e esteja alinhado com suas expectativas.
 
-🠖 Esse é o ponto de partida para uma atuação estratégica, profissional e lucrativa dentro do ponto de venda.\
+🠖 Esse é o ponto de partida para uma atuação estratégica, profissional e lucrativa dentro do ponto de venda.\\

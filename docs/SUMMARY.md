@@ -2,7 +2,7 @@
 
 * [Boas Vindas, Varejista](README.md)
 
-## Informações iniciais&#x20;
+## Informações iniciais
 
 * [Informações Iniciais](informacoes-iniciais/informacoes-iniciais.md)
 * [Lista de Fornecedores](informacoes-iniciais/lista-de-fornecedores.md)
@@ -22,6 +22,13 @@
 * [Visão Execução](sobre-o-sistema/visao-execucao.md)
 * [Fotocheck](sobre-o-sistema/fotocheck.md)
 * [Painel da Indústria](sobre-o-sistema/painel-da-industria.md)
+
+***
+
+* [Novidades da Plataforma](novidades-da-plataforma/README.md)
+  * [Calculadora de Desconto](novidades-da-plataforma/calculadora-de-desconto.md)
+  * [Planta de loja - Fotocheck](novidades-da-plataforma/planta-de-loja-fotocheck.md)
+  * [Tela de simulação de plano](novidades-da-plataforma/tela-de-simulacao-de-plano.md)
 
 ## NOVIDADES
 
