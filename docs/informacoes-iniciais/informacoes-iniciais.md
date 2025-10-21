@@ -1,4 +1,5 @@
 ---
+hidden: true
 icon: memo-circle-info
 cover: ../.gitbook/assets/5 (4).png
 coverY: 0

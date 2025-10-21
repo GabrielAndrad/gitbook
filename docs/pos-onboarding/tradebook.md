@@ -1,4 +1,5 @@
 ---
+hidden: true
 icon: book-open
 cover: ../.gitbook/assets/2 (5).png
 coverY: 0

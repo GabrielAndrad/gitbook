@@ -1,7 +1,24 @@
 ---
 icon: cart-shopping
-cover: .gitbook/assets/1 (4).png
-coverY: 0
+cover: .gitbook/assets/Sejam bem-vindo a Meu Cliente.jpg
+coverY: -62.59047460136159
+layout:
+  width: default
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
 ---
 
 # Boas Vindas, Varejista

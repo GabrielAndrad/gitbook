@@ -1,4 +1,5 @@
 ---
+hidden: true
 icon: comments
 cover: .gitbook/assets/4 (5).png
 coverY: 0
