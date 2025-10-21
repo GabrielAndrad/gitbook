@@ -1,7 +1,7 @@
 ---
 icon: cart-shopping
-cover: .gitbook/assets/Sejam bem-vindo a Meu Cliente.jpg
-coverY: -62.59047460136159
+cover: .gitbook/assets/Extranet.jpg
+coverY: 16.716270573474056
 layout:
   width: default
   cover:

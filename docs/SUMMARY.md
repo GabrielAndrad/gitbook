@@ -29,6 +29,7 @@
   * [Calculadora de Desconto](novidades-da-plataforma/calculadora-de-desconto.md)
   * [Planta de loja - Fotocheck](novidades-da-plataforma/planta-de-loja-fotocheck.md)
   * [Tela de simulação de plano](novidades-da-plataforma/tela-de-simulacao-de-plano.md)
+  * [Fila de PDF do Book Fotográfico](novidades-da-plataforma/fila-de-pdf-do-book-fotografico.md)
 
 ## NOVIDADES
 

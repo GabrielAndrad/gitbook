@@ -1,9 +1,13 @@
 ---
-description: Já dentro do plano desejado,
+description: >-
+  Assim, você economiza tempo, evita erros manuais e garante mais agilidade nas
+  negociações com os fornecedores!
 icon: calculator-simple
 ---
 
 # Calculadora de Desconto
+
+Essa funcionalidade foi criada para simplificar o cálculo de descontos diretamente nos planos, permitindo aplicar valores, percentuais ou ajustar o valor final de forma automática.
 
 1. Clique na calculadora do lado direito do "Valor Desconto" 👇
 
