@@ -30,6 +30,8 @@
   * [Planta de loja - Fotocheck](novidades-da-plataforma/planta-de-loja-fotocheck.md)
   * [Tela de simulação de plano](novidades-da-plataforma/tela-de-simulacao-de-plano.md)
   * [Fila de PDF do Book Fotográfico](novidades-da-plataforma/fila-de-pdf-do-book-fotografico.md)
+  * [Envio do PIN indústria](novidades-da-plataforma/envio-do-pin-industria.md)
+  * [Data prevista - Fluxo de pagamento](novidades-da-plataforma/data-prevista-fluxo-de-pagamento.md)
 
 ## NOVIDADES
 
