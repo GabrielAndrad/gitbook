@@ -11,16 +11,16 @@ Pensando nos fornecedores que realizam pagamentos recorrentes, como parcelas **t
 
 1. Com seu plano aberto, abra a aba de "**Fluxo de pagamento**" e clique em "**Data Prevista**"
 
-<figure><img src="../.gitbook/assets/11.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/11 (1).jpg" alt=""><figcaption></figcaption></figure>
 
 
 
 2. Abrindo o calendário você irá selecionar a primeira data de pagamento&#x20;
 
-<figure><img src="../.gitbook/assets/12.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/12 (1).jpg" alt=""><figcaption></figcaption></figure>
 
 
 
 3. Clique em "**Aplicar**" e automaticamente ele irá replicar a mesma data nos outros meses em diante.
 
-<figure><img src="../.gitbook/assets/13.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/13 (1).jpg" alt=""><figcaption></figcaption></figure>

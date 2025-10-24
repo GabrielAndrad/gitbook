@@ -32,6 +32,7 @@
   * [Fila de PDF do Book Fotográfico](novidades-da-plataforma/fila-de-pdf-do-book-fotografico.md)
   * [Envio do PIN indústria](novidades-da-plataforma/envio-do-pin-industria.md)
   * [Data prevista - Fluxo de pagamento](novidades-da-plataforma/data-prevista-fluxo-de-pagamento.md)
+  * [Anexo nos ativos alocados](novidades-da-plataforma/anexo-nos-ativos-alocados.md)
 
 ## NOVIDADES
 

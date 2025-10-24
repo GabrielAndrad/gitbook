@@ -43,15 +43,14 @@ com o objetivo de facilitar o uso de todo o nosso ecossistema de Trade Marketing
 
 Sendo elas:
 
-* Kickoff;
-* Mapeamento de ativos;
-* Criação do Tradebook;
-* Estratégias para festivais, campanhas e JBP;
-* Início das negociações comerciais;
+* Onboarding;
+* Planilha de implantação;
+* Início do uso da plataforma;
 * Execução no ponto de venda e comprovação por meio do Fotocheck;
-* Acompanhamento mensal com o nosso time;
+* Acompanhamento da indústria via painel da indústria;
+* Acompanhamento mensal com o nosso time.
 
-#### 🠖 Durante os vídeos que preparamos a seguir, você verá como aplicar o Trade Marketing de forma estratégica e profissional no seu varejo, com foco em organização, resultados e rentabilidade.
+#### Durante os vídeos que preparamos a seguir, você verá como aplicar o Trade Marketing de forma estratégica e profissional no seu varejo, com foco em organização, resultados e rentabilidade.
 
 ### Estamos aqui para te acompanhar nessa jornada. Vamos em frente 🚀
 
